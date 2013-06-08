@@ -1,6 +1,6 @@
 #PyOhio_talk_2013
 
-Notes and slides for talk on Code Reading
+Notes and slides for talk on Code Reading Python
 
 
 ###Writing small programs is no longer a problem, how to transition to longer ones?
@@ -20,6 +20,13 @@ Notes and slides for talk on Code Reading
  * Oddly enough, a lot of techniques here are inspired by an book on teaching reading for content: "Content Area Reading"
    * you can't read code, "cover to cover" and get much of a handle on it
    * you need strategies, (remember SQ3R?) our teachers tried ...
+     * use, (and build-up), your knowledge object system design to speculate on:
+       * what objects would you expect to find in this project?
+         * what real world things exist in the domain of the project, are they modelled?
+       * what responsibilites are needed, which object would have each?
+     * use, (and build-up), your knowledge of re-factoring to speculate on what you'll find
+     * use, (and build-up), naming guidelines to specualate on the objects and methods you'll find
+   * once have done a bit of specualation, read the code to see how accurate they were, (whose ideas are better?)
    * you need to go "multimodal"
      * pictures
      * sounds, (hey, talk out loud!)
